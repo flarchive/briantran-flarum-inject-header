@@ -1,0 +1,4 @@
+briantran-inject-header:
+    admin:
+        inject_header_label: Inject Script To The Site Header
+        js_code: Script content

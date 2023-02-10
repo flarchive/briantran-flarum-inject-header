@@ -1,0 +1,47 @@
+{
+    "name": "briantran/flarum-inject-header",
+    "description": "Inject script to the header tag",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.2.0"
+    },
+    "authors": [
+        {
+            "name": "Brian Tran",
+            "email": "brian@guruconsulting.asia",
+            "role": "Creator"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/brian-guru/flarum-inject-header/issues",
+        "source": "https://github.com/brian-guru/flarum-inject-header",
+        "forum": "https://discuss.flarum.org"
+    },
+    "homepage": "https://bientran.me",
+    "funding": [
+        {
+            "type": "website",
+            "url": "https://bientran.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Brian\\InjectHeader\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Inject Header Tag",
+            "category": "features",
+            "icon": {
+                "name": "fa fa-code",
+                "backgroundColor": "#ddd",
+                "color": "#000"
+            }
+        }
+    }
+}

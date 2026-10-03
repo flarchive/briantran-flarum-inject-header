@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of briantran/flarum-inject-header.** Not for installation: use [Packagist](https://packagist.org/packages/briantran/flarum-inject-header) or the [upstream repository](https://github.com/brian-guru/flarum-inject-header).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/briantran-flarum-inject-header/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**6** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/briantran-flarum-inject-header/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2023-02-09 | `^1.2.0` | [Browse](https://github.com/flarchive/briantran-flarum-inject-header/tree/archive/v0.0.1) |
+| `0.0.2` | 2023-02-09 | `^1.2.0` | [Browse](https://github.com/flarchive/briantran-flarum-inject-header/tree/archive/v0.0.2) |
+| `0.0.3` | 2023-02-09 | `^1.2.0` | [Browse](https://github.com/flarchive/briantran-flarum-inject-header/tree/archive/v0.0.3) |
+| `0.0.4` | 2023-02-09 | `^1.2.0` | [Browse](https://github.com/flarchive/briantran-flarum-inject-header/tree/archive/v0.0.4) |
+| `0.9.0` | 2023-02-09 | `^1.2.0` | [Browse](https://github.com/flarchive/briantran-flarum-inject-header/tree/archive/v0.9.0) |
+| `1.0.0` | 2023-02-10 | `^1.2.0` | [Browse](https://github.com/flarchive/briantran-flarum-inject-header/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/briantran-flarum-inject-header.json](https://github.com/flarchive/archive-index/blob/main/packages/briantran-flarum-inject-header.json)
 
